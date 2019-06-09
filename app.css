@@ -18,7 +18,7 @@ height: 100%;
 .container {
 margin: auto;
 padding: 1em;
-width: 80%;
+width: 70%;
 }
 
 .destination-container {
@@ -53,6 +53,7 @@ background-color: #03a9f4;
 #paris {
 background-color: #d32f2f;
 }
+
 .destination:hover h2 {
 transform: rotate(0deg);
 }
